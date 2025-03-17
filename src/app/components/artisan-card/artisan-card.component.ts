@@ -1,11 +1,10 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-artisan-card',
-  imports: [],
   templateUrl: './artisan-card.component.html',
-  styleUrl: './artisan-card.component.css'
+  styleUrls: ['./artisan-card.component.css']
 })
 export class ArtisanCardComponent {
-
+  @Input() artisan: any; // Permet de passer un artisan en Input
 }

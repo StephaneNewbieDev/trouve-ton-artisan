@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Jean Dupont",
+      "rating": 4.5,
+      "specialty": "Menuisier",
+      "location": "Lyon",
+      "description": "Artisan menuisier depuis 15 ans...",
+      "website": "https://jeandupont-artisan.com"
+    },
+    {
+      "id": 2,
+      "name": "Marie Lefevre",
+      "rating": 5,
+      "specialty": "Plombier",
+      "location": "Clermont-Ferrand",
+      "description": "Experte en plomberie et chauffage...",
+      "website": ""
+    }
+  ]
+  
